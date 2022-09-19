@@ -30,18 +30,18 @@ export const config = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
-    poetry: false,
+    poetry: true,
 
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oCb3H5h3LbR518fJFwYNDF7EePfY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "J8-lkcOG7gYA4sz0BUDgg6wzCqsfDx-59O_rs8c3NWQ",
+      useTemplateId: "SKge_PpbSlSkadgYTlRUEs-EVOno9kQ2YWSu3KSnSOA",
       // 所在省份
       province: "陕西",
       // 所在城市
