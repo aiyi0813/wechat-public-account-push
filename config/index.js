@@ -95,7 +95,7 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
+      name: "ceshi1",
       id: "oCb3H5txclJjF7EjwoqUMf67MePI",
       useTemplateId: "pNeX1G4ghulZYANIIXR_pmaTUsxx8wwq9FeZb22QEhs",
       province: "陕西",
