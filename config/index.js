@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "宝贝新怡",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oCb3H5h3LbR518fJFwYNDF7EePfY",
+      id: "oCb3H5sHUiEU_TX0ZSpLP_HTOuOQ",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "3zHw2enNAJ5b1zSZ8cZYs_3O7D8vqX08P2gS1HaIlkY",
       // 所在省份
@@ -95,8 +95,8 @@ export const config = {
       ]
     },
     {
-      name: "ceshi1",
-      id: "oCb3H5h3LbR518fJFwYNDF7EePfY",
+      name: "给宝贝的补充",
+      id: "oCb3H5sHUiEU_TX0ZSpLP_HTOuOQ",
       useTemplateId: "jZZIZTNHygACTXa_YbqukO-Ufog8bNBEZM2aacES3WI",
       province: "陕西",
       city: "宝鸡",
@@ -107,9 +107,9 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "测试2",
+      name: "自己测试",
       id: "oCb3H5txclJjF7EjwoqUMf67MePI",
-      useTemplateId: "	3zHw2enNAJ5b1zSZ8cZYs_3O7D8vqX08P2gS1HaIlkY",
+      useTemplateId: "3zHw2enNAJ5b1zSZ8cZYs_3O7D8vqX08P2gS1HaIlkY",
       province: "陕西",
       city: "西安",
       horoscopeDate: '11-21',
