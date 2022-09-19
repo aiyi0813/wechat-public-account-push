@@ -103,8 +103,8 @@ export const config = {
       horoscopeDate: '天蝎',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
-      festivals: [true],
-      customizedDateList: [true]
+      festivals: [],
+      customizedDateList: []
     },
     {
       name: "老婆2",
