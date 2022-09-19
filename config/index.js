@@ -96,6 +96,18 @@ export const config = {
     },
     {
       name: "老婆1",
+      id: "oCb3H5txclJjF7EjwoqUMf67MePI",
+      useTemplateId: "pNeX1G4ghulZYANIIXR_pmaTUsxx8wwq9FeZb22QEhs",
+      province: "陕西",
+      city: "宝鸡",
+      horoscopeDate: '天蝎',
+      horoscopeDateType: '',
+      openUrl: "https://wangxinleo.cn",
+      festivals: [true],
+      customizedDateList: [true]
+    },
+    {
+      name: "老婆2",
       id: "",
       useTemplateId: "",
       province: "",
@@ -105,18 +117,6 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "oCb3H5txclJjF7EjwoqUMf67MePI",
-      useTemplateId: "pNeX1G4ghulZYANIIXR_pmaTUsxx8wwq9FeZb22QEhs",
-      province: "陕西",
-      city: "宝鸡",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [true],
-      customizedDateList: [true]
     },
     {
       name: "老婆3",
