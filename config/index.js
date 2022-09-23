@@ -62,9 +62,9 @@ export const config = {
       // 想要发送的人的名字
       name: "宝贝新怡",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oCb3H5sHUiEU_TX0ZSpLP_HTOuOQ",
+      id: "oCb3H5h3LbR518fJFwYNDF7EePfY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "3zHw2enNAJ5b1zSZ8cZYs_3O7D8vqX08P2gS1HaIlkY",
+      useTemplateId: "7-EmEzHZN3nMuafRn3RHaPT3GEZU1jaq7JCpxlz1fGg",
       // 所在省份
       province: "陕西",
       // 所在城市
@@ -96,7 +96,7 @@ export const config = {
     },
     {
       name: "给宝贝的补充",
-      id: "oCb3H5sHUiEU_TX0ZSpLP_HTOuOQ",
+      id: "oCb3H5h3LbR518fJFwYNDF7EePfY",
       useTemplateId: "jZZIZTNHygACTXa_YbqukO-Ufog8bNBEZM2aacES3WI",
       province: "陕西",
       city: "宝鸡",
