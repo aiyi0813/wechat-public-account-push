@@ -109,7 +109,7 @@ export const config = {
     {
       name: "自己测试",
       id: "oCb3H5txclJjF7EjwoqUMf67MePI",
-      useTemplateId: "3zHw2enNAJ5b1zSZ8cZYs_3O7D8vqX08P2gS1HaIlkY",
+      useTemplateId: "7-EmEzHZN3nMuafRn3RHaPT3GEZU1jaq7JCpxlz1fGg",
       province: "陕西",
       city: "西安",
       horoscopeDate: '11-21',
